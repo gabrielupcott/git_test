@@ -1,1 +1,1 @@
-THis is Gabe's first git project!
+This is Gabe's first git project!
